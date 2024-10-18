@@ -1,0 +1,7 @@
+<?php
+define('DB_HOST','localhost');
+define('DB_USER','postgres');
+define('DB_PASS','Sri1973Lanka');
+define('DB_NAME','dbeLogicCCC');
+define('DB_PORT','5432');
+?>
